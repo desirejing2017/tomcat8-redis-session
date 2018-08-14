@@ -24,3 +24,5 @@ Context context = this.getContext();
         database="0"   
         maxInactiveInterval="60"/&gt;
   即可
+大家好
+111
